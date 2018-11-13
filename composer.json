@@ -1,5 +1,5 @@
 {
-  "name": "cnjack/delayqueue-php",
+  "name": "cnjackhack2012/delayqueue-php",
   "type": "library",
   "description": "PHP client for DelayQueue",
   "keywords": ["delayqueue","delayqueue-php"],
@@ -12,7 +12,7 @@
       "homepage": "https://github.com/ouqiang"
     },
     {
-      "name": "cnjack",
+      "name": "cnjackhack2012",
       "email": "admin@nightc.com",
       "homepage": "https://github.com/cnjack"
     }
